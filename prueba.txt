@@ -1,0 +1,1 @@
+corregir linea 132 script.js
